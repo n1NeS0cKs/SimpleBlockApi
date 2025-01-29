@@ -1,0 +1,4 @@
+name: SimpleBlockApi
+version: '${version}'
+main: org.n1nes0cks.simpleblockapi.SimpleBlockApi
+api-version: '1.21'
