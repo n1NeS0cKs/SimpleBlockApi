@@ -1,6 +1,7 @@
 > [!WARNING]
 > The plugin does not cancel the update of the blocks itself.  
-> To do this, cancel the update in the config from Paper  
+> To do this, cancel the update in the config from Paper
+> 
 > paper-global.yml:
 > ```
 >  disable-chorus-plant-updates: true
